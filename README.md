@@ -1,3 +1,7 @@
+## Parcours francais
+
+Ce depot contient un parcours pedagogique en francais dans docs/fr/ : lecture commentee du protocole de vaults de liquid staking permissionless StakeWise v3, un mecanisme par chapitre, sans aucune installation ni execution du projet.
+
 # StakeWise Protocol V3
 
 StakeWise V3 is a decentralized liquid staking protocol that operates on Ethereum and other EVM-compatible chains such as Gnosis Chain. The protocol allows users to stake their assets (ETH, GNO) and receive liquid staking tokens in return, enabling them to maintain liquidity while earning staking rewards.
